@@ -2,7 +2,6 @@
 ## 1. Project Overview
 ## Industry- Travel and Transportation
 ## Topic- Taxi Drivers Earnings Optimization
-[View the Live Project Report Here](https://github.com/NikitaBharti73/Big-Data-Capstone-Project/blob/main/Taxi_Report.html)
 The primary goal of this Big Data Capstone Project is to develop and implement data-driven strategies to maximize the earning potential and operational efficiency of taxi drivers. By leveraging a large dataset of historical taxi trip records, we analyze key factors—including demand patterns, route efficiency, and driving practices—that influence a driver's total income. The outcome is a scalable data pipeline and a suite of analytical models providing actionable insights for optimizing driver deployment and trip selection.
 
 ## The 5 Use Cases for Optimization
